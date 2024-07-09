@@ -4,13 +4,14 @@ description = "Trying to let go of things that I do not want to do"
 author = "Justin Napolitano"
 tags = ["life"]
 images = ["images/feature-image.png"]
+categories = ['Personal','Reflection']
 date = "2024-07-09"
 +++
 
 
 # Giving Up
 
-There are a lot of things that I do not want to do. I do them still. I do not entirely know why. I wan to give them up.
+There are a lot of things that I do not want to do. I do them still. I do not entirely know why. I want to give them up.
 
 ## Food
 
@@ -23,7 +24,7 @@ So this trend of eating at taco trucks or food trucks was fun to follow along wi
 
 ### Meat
 
-I mostly want to stop eating meat. I am close to dpoing so now, but I still find that I do not eat enough protien. Yesterday I bought a rotisserie chicken to supplement my nutrition.  I do not want to eat meat because I feel terrible that the animals live in horrible conditions only to be slaughtered for my benefit. It feels wrong.. very wrong. 
+I mostly want to stop eating meat. I am close to doing so now, but I still find that I do not eat enough protien. Yesterday I bought a rotisserie chicken to supplement my nutrition.  I do not want to eat meat because I feel terrible that the animals live in horrible conditions only to be slaughtered for my benefit. It feels wrong.. very wrong. 
 
 ### Dairy
 
@@ -35,7 +36,7 @@ I am not sure about how to eat fish. I think they feel pain like any other thing
 
 ### Grains and Veggies and Produce
 
-So I'm left with grains and veggies and oroduce. So now what? I'd like to limit my intake to providers that do not harm the environment. I do not know how to do this.  
+So I'm left with grains and veggies and produce. So now what? I'd like to limit my intake to providers that do not harm the environment. I do not know how to do this.  
 
 
 ### Fast Food
@@ -48,11 +49,11 @@ I think that the environment is a gift that should be conserved. Animals too sho
 
 ## The Internet
 
-So the internet is incredible. It is also horrible.  I have access to information that has enabled to me learn skills that provide me living. That said, there is a ton of toxic content online that I do not want to consume. 
+So the internet is incredible. It is also horrible.  I have access to information that has enabled to me learn skills that provide a living. That said, there is a ton of toxic content online that I do not want to consume. 
 
 ### Porn
 
-I am a millenial man tforhat has had access to pornography since I have wanted to view it. I admit it is still appealing.. even at 30 years old.  I have had periods of my life where I have abstained... then there are periods of my life when I have not.  Regardless the damage has been done.  The way I look at women.. and men is tainted by the exhibits I have seen online.  I wish this was not the case.. but it is.. Sex is fetishized. It does not feel like something natural.. or really that enjoyble.. It feels like an act done to satisfy a desire to replicate what we've seen online.  At the root, sex is for connection and procreation.. it feels like now it is a desire to satisfy a fear of missing out. That is fucked. 
+I am a millenial man that has had access to pornography since I have wanted to view it. I admit it is still appealing.. even at 30 years old.  I have had periods of my life where I have abstained... then there are periods of my life when I have not.  Regardless, the damage is done.  The way I look at women.. and men is tainted by the exhibits I have seen online.  I wish this was not the case.. but it is.. Sex is fetishized. It does not feel like something natural.. or really that enjoyable.. It feels like an act done to satisfy a desire to replicate what we've seen online.  At the root, sex is for connection and procreation.. it feels like now it is a desire to satisfy a fear of missing out. That is fucked. 
 
 ### Youtube
 
@@ -103,7 +104,7 @@ I will not wear tshirts in public.  I know that it is appropriate in some settin
 
 ### Athletic Wear
 
-This is a bit of a reflection on the fitness industry in general. Much of the gear I need in my daily life does not need to be techincal.  That said polyester and Nylon are incredible materials that are incredibly durable and do not directly harm animals. I I think there is place for them in certain settings.  However, most of the time technical clohting is overkill.  I need to think this through.  I am aware of the damange microplastics do to the environment. I need to research more to better understand what else I can manage.  
+This is a bit of a reflection on the fitness industry in general. Much of the gear I need in my daily life does not need to be techincal.  That said polyester and Nylon are incredible materials that are incredibly durable and do not directly harm animals. I think there is place for them in certain settings.  However, most of the time technical clothing is overkill.  I need to think this through.  I am aware of the damange microplastics do to the environment. I need to research more to better understand what else I can manage.  
 
 ### Exposed Skin
 
@@ -238,5 +239,11 @@ Again the same as above. I guess I will have to be more selective of the situati
 
 ### Feeling Pressured to Have Sex
 
-Well, I've written about porn.. here we go. I have felt pressured to have sex or be intimate when I feel uncomfortable doing so.  I am in a space where the power dynamics of sex just do not feel right to me most of the time.  I don't really want to sleep with someone that I feel is trying to honeypot me. That has happened before. I do not like it. I hate that I am writing this.. it seems as if I am oversharing.. which I am.. but it is authentic. 
+Well, I've written about porn.. here we go. I have felt pressured to have sex when I feel uncomfortable.  I am in a space where I feel badly about having sex for pleasure.. or maybe its about having sex just for the sake of having sex.  I am not sure how to describe my feelings. I just feel like I've been pressured... by both sexes despite not really wanting to be intimate. So I'm going to give that up. 
+
+## Time
+
+So there is a movie called the Great Beauty  The premise of the film.  It is all bullshit. Or at least that is my take away. I would say the most meaninful part of the film is when the proto tells the audience that he is too old to do thing he does not want to do. I like that. I am going to try to live by that. 
+
+
 
