@@ -4,7 +4,7 @@ description = "Trying to let go of things that I do not want to do"
 author = "Justin Napolitano"
 tags = ["life"]
 images = ["images/feature-image.png"]
-categories = ['Personal','Reflection']
+categories = ['procedures']
 date = "2024-07-09"
 +++
 
