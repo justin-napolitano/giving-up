@@ -28,7 +28,7 @@ I mostly want to stop eating meat. I am close to doing so now, but I still find 
 
 ### Dairy
 
-I need the protien, but I need to find a way to consume dairy from ethical farms. It is fucked up to get dairy from animals treated like shit.
+I need the protein, but I need to find a way to consume dairy from ethical farms. It is fucked up to get dairy from animals treated like shit.
 
 ### Fish
 
@@ -245,5 +245,25 @@ Well, I've written about porn.. here we go. I have felt pressured to have sex wh
 
 So there is a movie called the Great Beauty  The premise of the film.  It is all bullshit. Or at least that is my take away. I would say the most meaninful part of the film is when the proto tells the audience that he is too old to do thing he does not want to do. I like that. I am going to try to live by that. 
 
+
+## Idols
+
+I think idolization is a sin. Simply a sin. An infraction against my own life. ( I am trying to think of a word that is equal to sin, but without the religious undertones.. but I give up. Simply a sin)  I do not want to idolize priests, politicians, influencers, or even ideas.. I do not want to escape my reality by believing in false narratives.
+
+### Super Heroes
+
+I am tired of super heroes and shonen protagonists.  I am tired of idolizing characters like Goku and Wolverine that do not exist. I am not a child. Reality is not an anime.
+
+### Politicians 
+
+Politicians might actually care.. They might actually try to create a better world.  I do not know. I do not want to place my hope in them though. I want to improve my own life.. but I need to live in an environment in which that is possible.  I guess I have to deal with this.. and maybe its a blessing that I even have a choice to.. 
+
+### Musicians
+
+I let this go a long time ago. They are just musicians. They are just people. 
+
+### Athletes
+
+I can respect an athlete... but they too must be judged by their character. 
 
 
