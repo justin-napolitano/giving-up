@@ -1,12 +1,26 @@
 ---
-slug: "github-giving-up"
-title: "giving-up"
-repo: "justin-napolitano/giving-up"
-githubUrl: "https://github.com/justin-napolitano/giving-up"
-generatedAt: "2025-11-23T09:03:00.697692Z"
-source: "github-auto"
+slug: github-giving-up
+title: Technical Overview of the 'giving-up' Repository Documenting Ethical Diet Choices
+repo: justin-napolitano/giving-up
+githubUrl: https://github.com/justin-napolitano/giving-up
+generatedAt: '2025-11-23T09:03:00.697692Z'
+source: github-auto
+summary: >-
+  Structured markdown journal capturing reflections on ethical dietary decisions, including giving
+  up meat, dairy, and fast food for environmental and animal welfare reasons.
+tags:
+  - markdown
+  - ethical-diet
+  - personal-journal
+  - environmental-impact
+  - animal-welfare
+seoPrimaryKeyword: ethical dietary choices
+seoSecondaryKeywords:
+  - markdown journal
+  - environmental impact
+  - animal welfare
+seoOptimized: true
 ---
-
 
 # Technical Overview of the "giving-up" Repository
 
