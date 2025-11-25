@@ -1,20 +1,28 @@
 ---
 slug: github-giving-up
 id: github-giving-up
-title: giving-up
+title: Documenting Food Habits and Ethical Considerations
 repo: justin-napolitano/giving-up
 githubUrl: https://github.com/justin-napolitano/giving-up
 generatedAt: '2025-11-24T21:34:58.787Z'
 source: github-auto
 summary: >-
-  A personal reflective repository documenting the process of consciously giving
-  up certain food habits and ethical considerations around consumption. This
-  project captures thoughts and decisions related to dietary choices and
-  environmental impact.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Explore a reflective repository on food habits, ethical consumption, and
+  environmental impact through personal insights and markdown content.
+tags:
+  - markdown
+  - food ethics
+  - environmental impact
+  - personal journal
+  - dietary choices
+seoPrimaryKeyword: food consumption reflections
+seoSecondaryKeywords:
+  - ethical food sourcing
+  - markdown documentation
+  - environmental welfare
+  - dietary habits
+  - personal reflections
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
