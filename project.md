@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/giving-up
 generatedAt: '2025-11-24T21:34:58.787Z'
 source: github-auto
 summary: >-
-  Explore reflections on food habits, ethical consumption, and environmental
-  impact in this personal project repository.
+  Explore reflections on food habits, ethical consumption, and environmental impact in this personal
+  project repository.
 tags:
   - markdown
   - food ethics
@@ -26,8 +26,8 @@ seoSecondaryKeywords:
   - personal journal
   - environmental concerns
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: personal
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -79,3 +79,4 @@ To view the content locally, open `index.md` in a markdown viewer or editor.
 ---
 
 *Note: This repository appears to be a personal journal or essay rather than a software project. The assumptions above reflect this context.*
+
