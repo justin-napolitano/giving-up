@@ -1,32 +1,41 @@
 ---
 slug: github-giving-up
-title: Technical Overview of the 'giving-up' Repository Documenting Ethical Diet Choices
+title: Technical Overview of the 'giving-up' Repository
 repo: justin-napolitano/giving-up
 githubUrl: https://github.com/justin-napolitano/giving-up
 generatedAt: '2025-11-23T09:03:00.697692Z'
 source: github-auto
 summary: >-
-  Structured markdown journal capturing reflections on ethical dietary decisions, including giving
-  up meat, dairy, and fast food for environmental and animal welfare reasons.
+  Explore the 'giving-up' repository, documenting ethical dietary changes and
+  the challenges of aligning food choices with personal values.
 tags:
   - markdown
   - ethical-diet
   - personal-journal
   - environmental-impact
   - animal-welfare
-seoPrimaryKeyword: ethical dietary choices
+  - static site generators
+  - ethical eating
+  - dietary changes
+  - personal documentation
+seoPrimaryKeyword: ethical dietary documentation
 seoSecondaryKeywords:
   - markdown journal
-  - environmental impact
-  - animal welfare
+  - food consumption reflections
+  - dietary habits
+  - static site integration
+  - minimalistic documentation
 seoOptimized: true
 topicFamily: personal
 topicFamilyConfidence: 0.95
 topicFamilyNotes: >-
-  The post is a structured personal journal in markdown capturing ethical diet choices and
-  reflections, matching well with the 'personal' family's focus on personal journals, dietary logs,
-  and lifestyle reflections. It is not about automation, data science, or static site generation
-  despite some references, as the core is a textual diary of personal decisions.
+  The post is a structured personal journal in markdown capturing ethical diet
+  choices and reflections, matching well with the 'personal' family's focus on
+  personal journals, dietary logs, and lifestyle reflections. It is not about
+  automation, data science, or static site generation despite some references,
+  as the core is a textual diary of personal decisions.
+kind: project
+id: github-giving-up
 ---
 
 # Technical Overview of the "giving-up" Repository
